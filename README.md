@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:21222504089
+# Name:FAZIL AHAMED A
+# Date:23-5-2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="827" height="893" alt="Screenshot 2026-05-24 134702" src="https://github.com/user-attachments/assets/7e21faf9-1afd-4151-9fc0-df75062574b1" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="892" height="902" alt="Screenshot 2026-05-24 134740" src="https://github.com/user-attachments/assets/acb25974-9b6d-4959-bf16-b5227e367afb" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1004" height="727" alt="Screenshot 2026-05-24 134903" src="https://github.com/user-attachments/assets/4877131d-c0f3-4b0c-9e00-e13ef9cd1382" />
 
 
 
@@ -76,6 +79,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="921" height="513" alt="Screenshot 2026-05-24 134931" src="https://github.com/user-attachments/assets/cdecfc09-aa48-46b9-9c9f-2023f1d107dc" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="761" height="906" alt="Screenshot 2026-05-24 135045" src="https://github.com/user-attachments/assets/57e825e6-d83b-4a83-9d1f-641e60a6ffd4" />
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1024" height="843" alt="Screenshot 2026-05-24 135105" src="https://github.com/user-attachments/assets/495b5494-b72e-4bc5-aeec-cad2c43b20dc" />
 
 
 
